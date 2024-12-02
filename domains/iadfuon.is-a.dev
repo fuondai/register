@@ -1,0 +1,11 @@
+{
+    "description": "iadfuon.is-a.dev",
+    "repo": "https://github.com/fuondai",
+    "owner": {
+        "username": "iadfuon",
+        "email": "fuondai1314@gmail.com"
+    },
+    "record": {
+        "CNAME": "fuondai.github.io"
+    }
+}
